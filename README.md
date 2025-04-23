@@ -69,12 +69,15 @@ GENDER
 HAS CREDIT CARD
 
 📁 FILE STRUCTURE
-Copy
-Edit
+
 Customer-Churn-Prediction/
+
 ├── churn_prediction.ipynb
+
 ├── Churn_Modelling.csv
+
 ├── README.md
+
 📌 NOTES
 MISSING DATA IS IMPUTED USING MEAN STRATEGY
 
