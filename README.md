@@ -78,6 +78,10 @@ Customer-Churn-Prediction/
 
 ├── README.md
 
+├── .gitignore
+
+├── requirement.txt
+
 📌 NOTES
 MISSING DATA IS IMPUTED USING MEAN STRATEGY
 
