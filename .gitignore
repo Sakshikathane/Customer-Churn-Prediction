@@ -1,0 +1,26 @@
+# Ignore notebook checkpoints
+.ipynb_checkpoints/
+
+# Ignore dataset files (optional — remove if you want them tracked)
+*.csv
+*.xlsx
+*.h5
+*.pkl
+
+# Ignore output logs
+*.log
+
+# Python cache
+__pycache__/
+*.py[cod]
+
+# Colab outputs (if you download models, etc.)
+*.zip
+*.tar.gz
+*.pt
+*.pth
+*.hdf5
+
+# System files
+.DS_Store
+Thumbs.db
