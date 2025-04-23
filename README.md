@@ -25,7 +25,7 @@ THIS MODEL ANALYZES CUSTOMER DEMOGRAPHICS, SUBSCRIPTION BEHAVIOR, AND USAGE PATT
 
 1. **CLONE THE REPOSITORY**  
    ```bash
-   git clone https://github.com/your-username/Customer-Churn-Prediction.git
+   git clone https://github.com/Sakshikathane/Customer-Churn-Prediction
    cd Customer-Churn-Prediction
 
 2. **INSTALL REQUIRED LIBRARIES**
